@@ -36,7 +36,7 @@ dews_regions <- list(
   "Southern Plains" = c("KS", "OK", "TX"),
   "Intermountain West" = c("AZ", "NM", "UT", "CO","WY"),
   "Missouri River Basin" = c("ND", "SD"),
-  "Mid Atlantic*" = c("WV", "PA", "MD", "NJ"),
+  "Mid Atlantic*" = c("WV", "PA", "MD", "NJ", "DE"),
   "Lower Mississippi*" = c("LA", "AR", "MS")
 )
 
